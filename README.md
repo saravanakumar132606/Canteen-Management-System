@@ -40,4 +40,4 @@ A comprehensive **Canteen Management System** built to automate and efficiently 
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/ysaravanakumar132606/Canteen-Management-System.git](https://github.com/saravanakumar132606/Canteen-Management-System/tree/main)
+   git clone [https://github.com/saravanakumar132606/Canteen-Management-System/tree/main]
