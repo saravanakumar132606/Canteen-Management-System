@@ -33,13 +33,9 @@ A comprehensive **Canteen Management System** built to automate and efficiently 
 
 ##  Tech Stack
 
-- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap 5
-- **Backend**:  Python - update as per your project
-- **Database**: MySQL
-- **Additional Tools**: 
-  - SweetAlert2 (for notifications)
-  - DataTables (for better tables)
-  - Chart.js (for analytics)
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Backend**:  Python 
+- **Database**: PostgreSQL
 
 ---
 
@@ -47,4 +43,4 @@ A comprehensive **Canteen Management System** built to automate and efficiently 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ysaravanakumar132606/Canteen-Management-System.git
+   git clone [https://github.com/ysaravanakumar132606/Canteen-Management-System.git](https://github.com/saravanakumar132606/Canteen-Management-System/tree/main)
