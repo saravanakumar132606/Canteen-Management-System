@@ -2,9 +2,6 @@
 
 A comprehensive **Canteen Management System** built to automate and efficiently manage the daily operations of college, office, or institutional canteens. It streamlines menu management, order processing, inventory tracking, billing, and reporting.
 
-![Project Banner](https://via.placeholder.com/800x300?text=Canteen+Management+System)  
-*(Replace with your actual project banner/screenshot)*
-
 ## Features
 
 ### **Core Features**
